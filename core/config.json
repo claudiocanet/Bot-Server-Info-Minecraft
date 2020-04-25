@@ -1,0 +1,25 @@
+{
+  "servername": "Taquito's Server",
+  "discord_token": "NjEwOTcwMjQ2MjY1OTYyNDk5.XpH7eA.zmSOk5azcUqdxaeo8QxXa8pBApE",
+  "botid": "610970246265962499",
+  "prefix": ".",
+  "yt_api_key": "AIzaSyC4M4T-7Gv_aeEv0-dG_UCW_nedUkEJaqc",
+  "ownerid": "208232074061152268",
+  "sc_clientid": "",
+  "mysql": {
+    "host": "thecloudff7.es",
+    "user": "root",
+    "pass": "Y2QxZDc3MWVlZWVi",
+    "db": "taquitosbot"
+  },
+  "loggy": {
+    "canal": "626145074912165918",
+    "owner": "208232074061152268"
+  },
+  "sv" : {
+    "taquitos": {
+      "ip": "taquitos.craft.gg",
+      "port": "10127"
+    }
+  }
+}

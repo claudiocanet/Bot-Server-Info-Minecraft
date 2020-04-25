@@ -1,1 +1,2 @@
-Bot Server Info Minecraft
+# TaquitosBot
+Bot de discord de taquitos
